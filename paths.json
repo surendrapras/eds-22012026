@@ -1,6 +1,7 @@
 {
   "mappings": [
-    "/:/"
+    "/:/",
+    "/content/dam/formsanddocuments/:path*"
   ],
   "includes": [
     "/content/",
