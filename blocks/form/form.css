@@ -278,6 +278,10 @@ main .form .checkbox-wrapper label {
     flex-basis: calc(100% - 24px);
 }
 
+main .form form .field-wrapper label {
+  font-weight: 600;
+}
+
 main .form fieldset.link .checkbox-wrapper label {
     flex-basis: unset;
 }
